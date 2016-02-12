@@ -17,4 +17,4 @@ def remove_vowels(each_word):
 
 for word in words:
   no_vowels.append(remove_vowels(word))
-print(no_vowels)
+print(no_vowels) 
